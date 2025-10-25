@@ -1,2 +1,4 @@
 # HR-Analytics-Dashboard-Task_1_Outrix
-HR Analytics Dashboard in Power BI showing employee performance, attrition trends, and department metrics with interactive filters and an intuitive visual layout.
+Project: HR Analytics Dashboard
+Tools: Power BI, Excel
+Goal: Build an insightful and interactive dashboard to track employee performance, attrition trends, and departmental metrics. Designed with a clean visualization layout and slicers for easy data exploration.
